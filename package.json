@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-elmsa",
+  "version": "1.0.0",
+  "description": "Randfom string message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmsa/random-str-msg-elmsa.git"
+  },
+  "keywords": [],
+  "author": "Elmer Sandoval Acosta <elmersandoval@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elmsa/random-str-msg-elmsa/issues"
+  },
+  "homepage": "https://github.com/elmsa/random-str-msg-elmsa#readme",
+  "bin": {
+    "random-str-msg-elmsa": ".bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
